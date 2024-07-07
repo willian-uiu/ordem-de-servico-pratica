@@ -1,0 +1,13 @@
+E:\dev\ordem-de-servico-pratica\ordens-de-servico-backend\target\debug\deps\libtoml-0110955c294adba1.rmeta: C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\lib.rs C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\map.rs C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\value.rs C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\de.rs C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\ser.rs C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\macros.rs C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\edit.rs C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\fmt.rs C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\table.rs
+
+E:\dev\ordem-de-servico-pratica\ordens-de-servico-backend\target\debug\deps\toml-0110955c294adba1.d: C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\lib.rs C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\map.rs C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\value.rs C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\de.rs C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\ser.rs C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\macros.rs C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\edit.rs C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\fmt.rs C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\table.rs
+
+C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\lib.rs:
+C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\map.rs:
+C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\value.rs:
+C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\de.rs:
+C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\ser.rs:
+C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\macros.rs:
+C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\edit.rs:
+C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\fmt.rs:
+C:\Users\Willian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.14\src\table.rs:
